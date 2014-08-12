@@ -1,6 +1,6 @@
 Codeship Status: {<img alt="Status?branch=master" src="https://codeship.io/projects/942d6070-03ed-0132-24cb-6a96350b0e28/status?branch=master" />}[https://codeship.io/projects/30555]
 
-Travis Status: 
+Travis Status: {<img src="https://travis-ci.org/Koxzi95/the-idea-app.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/Koxzi95/the-idea-app]
 
 
 == README
