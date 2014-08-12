@@ -15,6 +15,9 @@ end
 #Carrierwave for picture/file uploading
 gem 'carrierwave'
 
+#ImageMagick for better images
+gem 'mini_magick', '3.8.0'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
