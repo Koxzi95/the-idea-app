@@ -30,6 +30,9 @@ gem 'coffee-rails', '~> 4.0.0'
 #Use Devise for users and authentication
 gem 'devise'
 
+#Use Gravtastic for gravatar user avatars
+gem 'gravtastic'
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
