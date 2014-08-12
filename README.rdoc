@@ -1,3 +1,8 @@
+Codeship Status: {<img alt="Status?branch=master" src="https://codeship.io/projects/942d6070-03ed-0132-24cb-6a96350b0e28/status?branch=master" />}[https://codeship.io/projects/30555]
+
+Travis Status: 
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
