@@ -2,7 +2,6 @@ Codeship Status: {<img alt="Status?branch=master" src="https://codeship.io/proje
 
 Travis Status: {<img src="https://travis-ci.org/Koxzi95/the-idea-app.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/Koxzi95/the-idea-app]
 
---random line for push! Yay
 
 == README
 
